@@ -1,0 +1,37 @@
+
+#Intelligence
+SparkPatchEntry,(1,1,0,),/Game/GameData/Challenges/_ChallengeBonuses/UIStats/UIStat_ChallengeBonus_HeroPointIntelligence.UIStat_ChallengeBonus_HeroPointIntelligence,FormatText,0,,$VALUE$ Spell Recovery
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Archmage/Prestige_Archmage_01_Intelligence.Default__Prestige_Archmage_01_Intelligence_C,AbilityName,0,,Spell Recovery
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Archmage/Prestige_Archmage_01_Intelligence.Default__Prestige_Archmage_01_Intelligence_C,AbilityDescription,0,,Gain increased Spell Recovery
+
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Intelligence.DisplayName,0,,Spell Recovery
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Intelligence.ShortDescription,0,,SPRC
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Intelligence.LongDescription,0,,Skill Recovery determines the overall cooldown of your spells.
+
+#Attunement
+SparkPatchEntry,(1,1,0,),/Game/GameData/Challenges/_ChallengeBonuses/UIStats/UIStat_ChallengeBonus_HeroPointAttunement.UIStat_ChallengeBonus_HeroPointAttunement,FormatText,0,,$VALUE$ Skill Recovery
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Druid/Prestige_Druid_01_Attunement.Default__Prestige_Druid_01_Attunement_C,AbilityName,0,,Skill Recovery
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Druid/Prestige_Druid_01_Attunement.Default__Prestige_Druid_01_Attunement_C,AbilityDescription,0,,Gain increased Skill Recovery
+
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Luck.DisplayName,0,,Skill Recovery
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Luck.ShortDescription,0,,SRCV
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Luck.LongDescription,0,,Skill Recovery determines the overall cooldown of your action skills.
+
+#Dexterity
+SparkPatchEntry,(1,1,0,),/Game/GameData/Challenges/_ChallengeBonuses/UIStats/UIStat_ChallengeBonus_HeroPointDexterity.UIStat_ChallengeBonus_HeroPointDexterity,FormatText,0,,$VALUE$ Critical Luck
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Deadeye/Prestige_Deadeye_03_Dexterity.Default__Prestige_Deadeye_03_Dexterity_C,AbilityName,0,,Critical Luck
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Deadeye/Prestige_Deadeye_03_Dexterity.Default__Prestige_Deadeye_03_Dexterity_C,AbilityDescription,0,,Gain increased Critical Luck
+
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Dexterity.DisplayName,0,,Critical Luck
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Dexterity.ShortDescription,0,,CLCK
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Dexterity.LongDescription,0,,Critical Luck determines the overall chance to score a critical hit anywhere on the target.
+
+#Strength
+SparkPatchEntry,(1,1,0,),/Game/GameData/Challenges/_ChallengeBonuses/UIStats/UIStat_ChallengeBonus_HeroPointStrength.UIStat_ChallengeBonus_HeroPointStrength,FormatText,0,,$VALUE$ Critical Power
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Blademaster/Prestige_Blademaster_04_Strength.Default__Prestige_Blademaster_04_Strength_C,AbilityName,0,,Critical Power
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/PrestigeClass/Abilities/Blademaster/Prestige_Blademaster_04_Strength.Default__Prestige_Blademaster_04_Strength_C,AbilityDescription,0,,Gain increased Critical Power
+
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Strength.DisplayName,0,,Critical Power
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Strength.ShortDescription,0,,CPWR
+SparkPatchEntry,(1,1,0,),/Game/GameData/HeroPoint/GlobalHeroPointsData.GlobalHeroPointsData,Strength.LongDescription,0,,Critical Power determines the strength of your overall critical hit power.
+
